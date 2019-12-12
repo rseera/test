@@ -37,6 +37,8 @@ An authentication system is included using the [jsonwebtoken](https://github.com
 * `/authentication` generates a token if valid `username` and `password` are provided via Post
 * `/users` is protected by the token authentication system
 
+## Branch 2 updates
+
 
 ### Branch1 update
 
